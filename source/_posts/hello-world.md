@@ -3,7 +3,6 @@ title: LearnBlog
 tags：
 - 博客
 - hexo
-typora-root-url: ./
 ---
 
 ~~This is one of my tasks.~~
