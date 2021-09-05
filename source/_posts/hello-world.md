@@ -8,5 +8,6 @@ tags: 博客
 
 ~~This is one of my tasks.~~
 
-![IMG_3213](/hello-world/IMG_3213.JPG)
 
+
+![IMG_3213](hello-world.assets/IMG_3213.JPG)
