@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello,world</title>
-    <url>/2021/09/05/hello-world-1/</url>
-    <content><![CDATA[<img src="/2021/09/05/hello-world-1/IMG_3213.JPG" class="" title="This is an test image">
-
-]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Learn</title>
     <url>/2021/09/05/hello-world/</url>
     <content><![CDATA[<p><del>This is one of my tasks.</del></p>
